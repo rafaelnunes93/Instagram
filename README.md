@@ -10,3 +10,9 @@ A simple copy of Instagram homepage
 # technologies
  - HTML
  - CSS
+
+## AUTHOR
+
+ - Rafael Nunes dos Santos
+ - site: http://r6developer.com/
+ - Linkedin : https://www.linkedin.com/in/rafaelnunesdossantos/
