@@ -1,2 +1,2 @@
 # Instagram
-A simple copy of Instagram homepage
+A simple copy of Instagram homepage.
