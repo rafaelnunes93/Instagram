@@ -1,2 +1,6 @@
 # Instagram
-A simple copy of Instagram homepage.
+
+# About
+A simple copy of Instagram homepage
+
+
